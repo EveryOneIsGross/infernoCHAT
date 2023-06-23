@@ -2,6 +2,9 @@
 ## Description
 This project implements a chatbot that allows users to explore and interact with the denizens of Dante's Inferno. The chatbot provides a simulated conversation experience with various levels of Inferno, each represented by a different embodiement of that levels sin. Users can choose a level, chat with the bot representing that level, and explore the unique characteristics and experiences of each level in Dante's Inferno. You are accompanied by the great poet Virgil. 
 
+![Dantes_Inferno_hd_high_detail_surr_0](https://github.com/EveryOneIsGross/infernoCHAT/assets/23621140/e809b8ec-9e64-49d5-9997-6a14cce799a2)
+
+
 ## Dante's Inferno Philosophies and their Relationship to the Program
 The program you are using is based on Dante's Inferno, a renowned literary work by Dante Alighieri. This section will provide an overview of the philosophies explored in Dante's Inferno and their connection to the program you are interacting with.
 
