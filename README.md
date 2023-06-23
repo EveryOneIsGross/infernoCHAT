@@ -24,7 +24,7 @@ Through the journey in Inferno, Dante encounters various sinners who are remorse
 5. Symbolism and Allegory
 Dante's Inferno utilizes rich symbolism and allegorical representations. The various creatures, landscapes, and punishments in each level of Hell symbolize deeper meanings and moral lessons. Exploring these symbols and their significance can provide valuable insights into human nature, morality, and spirituality.
 
-Relationship to the Program
+Relationship to infernoCHAT
 The program you are interacting with aims to simulate and engage users in conversations inspired by Dante's Inferno. By exploring the different levels of Hell and conversing with various characters, the program provides a unique opportunity to delve into the philosophical themes and narratives presented in the original work.
 
 Through the chat interface, users can gain a deeper understanding of the philosophies embedded in Dante's Inferno. The program's AI-generated responses strive to capture the essence of the characters and the moral dilemmas they represent. This interaction allows users to contemplate the consequences of actions, engage in meaningful conversations, and experience elements of Dante's Inferno in a dynamic and immersive way.
