@@ -59,6 +59,13 @@ Switching Characters: Depending on your project setup, you may have the option t
 
 Continuation: Continue the conversation by providing meaningful and relevant input, exploring different aspects of Dante's Inferno, or following the narrative and prompts presented by the chat interface.
 
+## To Do
+
+- add diaglogue from the original work to Virgil
+- add local JSON memories for levels and virgil
+- replace atmosphere tag with sentiment analysis to adjust temperature, token limit and to contextually add positive or negative alignments to their output
+- refactor and seperate out logic
+
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
