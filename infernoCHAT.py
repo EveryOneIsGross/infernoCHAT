@@ -121,7 +121,15 @@ virgil_bot = VirgilBot()
 
 bots = [limbo_bot, lust_bot, gluttony_bot, greed_bot, anger_bot, heresy_bot, violence_bot, fraud_bot, treachery_bot, virgil_bot]
 
-print("Welcome to the Inferno!\n")
+print('''
+.___        _____                           
+|   | _____/ ____\___________  ____   ____  
+|   |/    \   __\/ __ \_  __ \/    \ /  _ \ 
+|   |   |  \  | \  ___/|  | \/   |  (  <_> )
+|___|___|  /__|  \___  >__|  |___|  /\____/ 
+         \/          \/           \/      
+''')
+
 print("Type 'descend' to go to the next level, or 'reset' to return to the beginning.\n"
       "Type 'virgil ' followed by your question to speak to Virgil, the ancient Roman poet who guides Dante through Hell and Purgatory.")
 print("Choose a between 0 and 8 to select the level you want to explore, or type 'exit' to quit.\n")
